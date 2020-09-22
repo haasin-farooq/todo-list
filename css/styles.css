@@ -83,6 +83,7 @@
   border: none;
   background-color: #fff;
   text-transform: capitalize;
+  width: 50%;
 }
 
 .task-title-input:focus {
